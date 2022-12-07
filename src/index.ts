@@ -16,5 +16,5 @@ app.use(cors({ credentials: true, origin: true }));
 app.use(routes);
 
 app.listen(PORT, () => {
-  console.log(`MyIpvc Card Generator listening on port ${PORT}`);
+  console.log(`node-typescript-starter listening on port ${PORT}`);
 });
