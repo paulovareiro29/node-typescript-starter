@@ -1,4 +1,4 @@
-# Node Typescript Starter
+# Node Typescript Starter [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 The main purpose of this repository is to speed up the process when starting a new project using NodeJS + Typescript + Express
 
